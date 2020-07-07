@@ -5,10 +5,8 @@ import { fetchData } from './api';
 import HeaderAppBar from './Components/Header';
 
 
-
 class App extends React.Component {
-    
-    
+        
     
     state = {
         data: {},
